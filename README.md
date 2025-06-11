@@ -30,8 +30,8 @@ Jenkins, GitHub CI/CD, Postman, MySQL/PostgreSQL, MongoDB, Docker, JMeter
 
 ## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/percival-gebashe)
 
 ## GitHub Stats
 
-![Percival's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide=stars&theme=default)
+![Percival's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PercivalGebashe&show_icons=true&hide_title=true&hide=stars&theme=default)
