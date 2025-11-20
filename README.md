@@ -34,4 +34,8 @@ Jenkins, GitHub CI/CD, Postman, MySQL/PostgreSQL, MongoDB, Docker, JMeter
 
 ## GitHub Stats
 
-![Percival's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PercivalGebashe&show_icons=true&hide_title=true&hide=stars&theme=default)
+<img alt="my github stats" src="https://github-readme-stats.vercel.app/api?username=PercivalGebashe&show_icons=true" />
+
+## Most Used Languages
+
+<img alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PercivalGebashe&layout=compact" />
